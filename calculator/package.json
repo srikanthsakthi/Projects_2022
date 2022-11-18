@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "Sri"
+  },
+  "author": "Srikanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
